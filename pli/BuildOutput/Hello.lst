@@ -1,0 +1,38 @@
+5724-B67  IBM(R) PL/I for Windows   9.5      (Built:20190607)                                  2020.04.30 15:46:24   Page     1
+
+
+                    Options Specified
+
+ Environment:
+
+ Command: NOCOMPILE,XINFO(XML),include(ext('inc' 'cpy' 'mac' ' '))
+
+5724-B67  IBM(R) PL/I for Windows   elloWorld: proc options (main);                            2020.04.30 15:46:24   Page     2
+
+
+Compiler Messages
+
+Message       Line.File Message Description
+
+IBM1403I E              The end of the source was reached before the logical
+                        end of the program. Null statements and END
+                        statements will be inserted as necessary to complete
+                        the program.
+IBM1480I E              Multiple closure of groups is not allowed under
+                        RULES(NOMULTICLOSE).
+IBM1352I E       3.0    The statement element ND is invalid. The statement
+                        will be ignored.
+
+
+File Reference Table
+
+  File    Included From  Name
+
+     0                   C:\Users\qdr5c11\Desktop\homefolder\TestRepo\pli\Hello.pli
+
+
+Component    Return Code    Messages (Total/Suppressed)    Time
+
+Compiler         8                4  /  1                   0 secs
+
+End of compilation of ELLOWORLD

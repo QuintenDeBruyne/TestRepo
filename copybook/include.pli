@@ -1,1 +1,1 @@
-DECLARE (x, y, z) POINTER;
+ DECLARE (x, y, z, a) POINTER;
